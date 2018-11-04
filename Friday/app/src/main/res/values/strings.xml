@@ -1,3 +1,20 @@
 <resources>
-    <string name="app_name">Friday</string>
+    <string name="app_name">Is today Friday?</string>
+    // en
+    <string name="app_name_en">Is today Friday?</string>
+    <string name="app_answer_no_en">No, sorry. Please try again later.</string>
+    <string name="app_answer_yes_en">Yeah!!! Today is Friday.</string>
+    // de
+    <string name="app_name_de">Ist heute Freitag?</string>
+    <string name="app_answer_no_de">Nein, leider nicht. Bitte versuchen Sie später wieder.</string>
+    <string name="app_answer_yes_de">Ja!!! Heute ist Freitag</string>
+    // fr
+    <string name="app_name_fr">"Est vendredi aujourd'hui?"</string>
+    <string name="app_answer_no_fr">Non, malheureusement pas. Veuillez réessayer plus tard.</string>
+    <string name="app_answer_yes_fr">"Oui !!! Aujourd'hui c'est vendredi"</string>
+    // ru
+    <string name="app_name_ru">Сегодня пятница?</string>
+    <string name="app_answer_no_ru">К сожалению нет. Повторите попытку позже.</string>
+    <string name="app_answer_yes_ru">Да !!! Сегодня пятница</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
